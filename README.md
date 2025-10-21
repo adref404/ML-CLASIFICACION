@@ -7,7 +7,7 @@ Sistema de Machine Learning para clasificación de enfermedades cardiovasculares
 ### 1. Instalación
 ```bash
 # Crear entorno virtual
-python -m venv venv
+py -m venv venv
 
 # Activar entorno virtual
 # Windows:
